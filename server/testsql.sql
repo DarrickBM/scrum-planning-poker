@@ -1,0 +1,1 @@
+select nickName, language, city, country, province, createdAt, updatedAt from Users
